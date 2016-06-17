@@ -1,0 +1,38 @@
+# Compiled source #
+###################
+*.class
+
+# Packages #
+############
+*.zip
+
+# Logs #
+######################
+*.log
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.Trashes
+
+# build generated files #
+######################
+target
+bin
+lib
+plugin.xml
+cobertura.ser
+plugins
+
+# eclipse #
+#####################
+.settings
+.classpath
+.project
+target-eclipse
+
+# intelli-j #
+#####################
+.idea
+*.iml
